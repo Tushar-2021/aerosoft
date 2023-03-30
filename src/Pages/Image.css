@@ -1,0 +1,30 @@
+.bg {
+  background-image: url(../assests/fry.jpg);
+  background-size: 100% 100%;
+  width: 1505px;
+  height: 200px;
+  margin-left: 0%;
+  background-size: cover;
+}
+
+.digi {
+  padding-top: 30px;
+  text-align: center;
+  color: aliceblue;
+  font-weight: 700;
+  font-size: 30px;
+  margin-left: 500px;
+  margin-right: 500px;
+}
+
+.hey {
+  color: aliceblue;
+  text-align: center;
+  margin: 2px;
+}
+
+.hey2 {
+  color: aliceblue;
+  text-align: center;
+  margin-top: 1.5rem;
+}

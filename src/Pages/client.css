@@ -1,0 +1,87 @@
+h1 {
+  margin-top: 25px;
+  margin-bottom: 50px;
+  word-spacing: 2px;
+  font-weight: 700;
+  padding-left: 0%;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: center;
+
+}
+
+img {
+  margin-left: 90px;
+}
+
+.h1 {
+  display: grid;
+  grid-template-columns: 597px auto;
+}
+
+.h2 {
+  display: grid;
+  grid-template-columns: auto auto;
+
+  margin-top: 10px;
+  justify-content: center;
+}
+
+h6 {
+  text-align: left;
+  color: brown;
+  word-spacing: 1px;
+  margin-left: 15px;
+  margin-top: 60px;
+  font-size: 20px;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+h2 {
+  font-weight: 700;
+  font-size: 34px;
+  text-align: left;
+  margin-left: 15px;
+  margin-top: 4px;
+  margin-bottom: 5px;
+}
+
+.pra {
+  padding: 0%;
+  word-spacing: 4px;
+  font-weight: 300;
+  text-align: left;
+  margin-left: 15px;
+  margin-top: 3px;
+  margin-right: 10rem;
+
+}
+
+GiLaurelsTrophy {
+  color: orangered;
+}
+
+h3 {
+  margin-top: 23px;
+  margin-left: 15px;
+}
+
+span {
+  margin-left: 28px;
+  color: hsl(33, 98%, 47%);
+  font-size: 28px;
+}
+
+.color {
+  margin-top: -15px;
+  color: rgb(147, 142, 142);
+  margin-left: 15px;
+}
+
+.aim2 {
+  margin-left: 10px;
+}
+
+.pls {
+  word-spacing: 4px;
+  font-weight: 300;
+}
